@@ -1,7 +1,7 @@
 # Code of Conduct for Simple Interest Calculator
 
 ## Our Pledge
-
+ 
 We, as members, contributors, and maintainers of the **Simple Interest Calculator** project, pledge to make participation in our project and community a welcoming and inclusive experience for everyone, regardless of age, body size, disability, ethnicity, gender identity, experience level, nationality, personal appearance, race, religion, or sexual identity.
 
 We commit to fostering an environment of respect, collaboration, and openness in order to create a positive experience for all contributors and users of this project.
